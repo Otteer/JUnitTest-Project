@@ -26,6 +26,7 @@ public class ShoppingCart {
         return total;
     }
 
+    //ADd this comment for git
     public int getProductCount() {
         return products.size();
     }
